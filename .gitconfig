@@ -1,0 +1,13 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Oscar Huang
+	email = oscarhuang70712@gmail.com
+# Please adapt and uncomment the following lines:
+#	name = Oscar
+#	email = oscarhuang70712@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
+[pull]
+	rebase = true
